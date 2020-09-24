@@ -17,7 +17,7 @@ class _TransaksiState extends State<Transaksi> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Masukan Transaksi"),
+          title: Text("Input Transaksi"),
         ),
         body: Container(
           padding: EdgeInsets.all(10.0),
